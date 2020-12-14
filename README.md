@@ -6,4 +6,5 @@
 
      * Lab: Username enumeration via different responses
      
-![alt text](HallOfFrame.PNG | width = 100)
+![alt text](HallOfFrame.PNG)
+<!-- <img src=HallOfFrame.PNG height="400"> -->
